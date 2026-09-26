@@ -4,7 +4,7 @@ happy anniversary
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>A Special Surprise For You, My Love! 💕</title>
+  <title>A Special Surprise For You, My BEBI! 💕</title>
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
   <style>
