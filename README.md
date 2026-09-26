@@ -1,6 +1,5 @@
 # gift-for-my-kevin-bebi
 happy anniversary 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
